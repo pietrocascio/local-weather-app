@@ -1,5 +1,6 @@
-import { Component } from '@angular/core'
-import { ICurrentWeather } from './shared/model/interfaces'
+import { Component } from '@angular/core';
+
+import { ICurrentWeather } from './shared/model/interfaces';
 
 @Component({
   selector: 'app-root',

@@ -4,7 +4,9 @@
 
 export const environment = {
   production: false,
-}
+  weatherAppId: '0221054b21167ce1ac0a71ddbf9db778',
+  baseUrl: 'http://',
+};
 
 /*
  * For easier debugging in development mode, you can import the following file
